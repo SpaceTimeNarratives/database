@@ -1,0 +1,9 @@
+This is the API + possbly UI layer.
+
+This app should be run on the same server the postgres docker container is running for now.
+
+The API layer is in app.py code.
+
+The UI layer is in template directory and other static directories.
+
+For now the browse command http://localhost:8100/

@@ -1,0 +1,21 @@
+# swagger.yml
+
+openapi: 3.0.0
+info:
+  title: "Spatial Narratives API"
+  description: "An API about Lake District text and extracted entities"
+  version: "1.0.0"
+
+servers:
+  - url: "/api"
+
+paths:
+  /para:
+    get:
+      operationId: "para.read_all"
+      tags:
+        - "Paragraphs"
+      summary: "Read the list of paragraphs"
+      responses:
+        "200":
+          description: "Successfully read paragraph list"

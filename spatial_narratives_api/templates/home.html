@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spatial Narratives API</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro" rel="stylesheet">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,200" />
+</head>
+
+<body>
+    <section class="hero is-white">
+        <div class="hero-head">
+            {% if name %}
+            <h1 class="center">Hello {{ name }}!</h1>
+            {% else %}
+            <h1 class="center">Search Lake District Data</h1>
+            {% endif %}
+        </div>
+    </section>
+    <section>
+        <div class="hero-body">
+            <div class="container has-text-centered">
+                <form class="center" action="{{ url_for('search') }}">
+                    <input width="800px" name="search" type="search" placeholder="Search" aria-label="Search">
+                    <button type="submit">Search</button>
+                </form>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="center">
+        <h2>Found {{ paragraphs|length }} paragraphs for term '{{term}}'.</h2>
+        <ul>
+            {% for item in paragraphs %}
+            <li>{{ item }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    </section>
+</body>
+
+</html>

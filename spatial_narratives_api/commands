@@ -1,0 +1,40 @@
+To install Python libraries from requirements.txt.
+
+pip install -r requirements.txt
+
+Postgres data ingestion.
+
+
+-- Table: public.data_paragraphs
+
+-- DROP TABLE IF EXISTS public.data_paragraphs;
+
+CREATE TABLE IF NOT EXISTS public.data_paragraphs
+(
+    "colId" integer,
+    "fileId" integer,
+    "paraId" integer,
+    text text COLLATE pg_catalog."default",
+    word_count integer,
+    plnames text COLLATE pg_catalog."default",
+    pn_cnts integer,
+    geonouns text COLLATE pg_catalog."default",
+    gn_cnts integer,
+    pos_emotions text COLLATE pg_catalog."default",
+    pos_cnts integer,
+    neg_emotions text COLLATE pg_catalog."default",
+    neg_cnts integer,
+    loc_advs text COLLATE pg_catalog."default",
+    locad_cnts integer,
+    sp_prep text COLLATE pg_catalog."default",
+    sprep_cnts integer,
+    sentiment_score real
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS public.data_paragraphs
+    OWNER to root;
+
+
+    

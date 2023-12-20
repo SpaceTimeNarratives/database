@@ -1,0 +1,1395 @@
+GBPNID,PlaceName,GridRef,Lat,Lng,HistCounty,Division,AdCounty,District,UniAuth,Police,Region,Alternative_Names,Type
+34,Abbeytown,NY1750,54.844663,-3.289704,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+299,Ackenthwaite,SD5081,54.228545,-2.757752,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+419,Aglionby,NY4456,54.90124,-2.865459,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+423,Aiketgate,NY4846,54.811125,-2.809849,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+424,Aikton,NY2753,54.870597,-3.131868,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+435,Ainstable,NY5246,54.810174,-2.739314,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+515,Albyfield,NY5452,54.864337,-2.707617,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+579,Aldingham,SD2871,54.130304,-3.09866,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+584,Aldoth,NY1448,54.826269,-3.333958,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+656,Allenwood,NY4855,54.895936,-2.800167,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+663,Allerby,NY0839,54.742274,-3.416963,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+693,Allithwaite,SD3876,54.182115,-2.9411,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+696,Allonby,NY0842,54.770965,-3.430542,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+768,Alston,NY7146,54.812501,-2.4413846,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+849,Ambleside,NY3704,54.431764,-2.958822,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+926,Angerton,NY2257,54.902215,-3.204682,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+942,Annaside,SD0986,54.266692,-3.397053,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+986,Anthorn,NY1958,54.914328,-3.251065,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+1014,Appleby-in-Westmorland,NY6820,54.577771,-2.491265,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+1025,Applethwaite,NY2625,54.620632,-3.140591,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+1186,Arkleby,NY1439,54.745377,-3.334405,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+1193,Arlecdon,NY0418,54.556831,-3.471037,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+1209,Armathwaite,NY5046,54.808708,-2.767013,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+1222,Arnaby,SD1884,54.252162,-3.255344,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+1238,Arnside,SD4578,54.201616,-2.835458,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+1243,Arrad Foot,SD3080,54.217862,-3.065049,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+1271,Asby,NY0620,54.570187,-3.453202,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+1476,Askam in Furness,SD2177,54.188701,-3.2047038,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+1482,Askham,NY5123,54.607085,-2.756669,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+1496,Aspatria,NY1441,54.76347,-3.333446,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+1696,Aughertree,NY2538,54.735493,-3.159348,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+1796,Ayside,SD3983,54.243613,-2.929133,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+1838,Backbarrow,SD3584,54.253158,-2.994583,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+1925,Baggrow,NY1741,54.764855,-3.278313,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+2039,Baldwinholme,NY3351,54.857673,-3.035262,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+2214,Bampton,NY5118,54.557322,-2.752546,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+2217,Bampton Grange,NY5218,54.556505,-2.742171,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+2234,Bandrake Head,SD3187,54.275846,-3.05349,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+2248,Bank End,NY0438,54.727788,-3.4921957,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+2249,Bank End,SD1988,54.286428,-3.2322105,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+2287,Banks,NY5664,54.973689,-2.678917,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+2328,Barber Green,SD3982,54.235522,-2.929412,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+2333,Barbon,SD6282,54.236565,-2.57139,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+2343,Barclose,NY4462,54.957011,-2.870561,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+2359,Bardsea,SD3074,54.162627,-3.070522,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+2368,Barepot,NY0129,54.650017,-3.531998,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+2545,Barras,NY8411,54.502786,-2.240988,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+2596,Barrow-In-Furness,SD1969,54.111364,-3.227192,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+2598,Barrows Green,SD5288,54.285861,-2.732689,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+2711,Bassenthwaite,NY2332,54.678012,-3.19518,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+2820,Baycliff,SD2872,54.142928,-3.092212,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+2829,Bayles,NY7045,54.799932,-2.458069,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+2861,Beacon Hill,SD2170,54.12413,-3.2021868,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+2904,Beanthwaite,SD2484,54.252874,-3.157281,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+2924,Beathwaite Green,SD4886,54.267,-2.7998964,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+2935,Beaumont,NY3459,54.924285,-3.018154,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+2955,Beck Bottom,SD2984,54.24674,-3.0910924,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+2957,Beck Foot,SD6196,54.358026,-2.6016217,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+2959,Beck Head,SD4484,54.254779,-2.853402,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+2961,Beck Houses,SD5896,54.357787,-2.6477814,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+2963,Beck Side,SD2382,54.229633,-3.171972,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+2964,Beck Side,SD3780,54.211845,-2.9675009,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+2966,Beckces,NY4127,54.634658,-2.9155446,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+2969,Beckermet,NY0106,54.448015,-3.513773,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+2974,Beckfoot,NY0949,54.835354,-3.411507,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+2988,Beckside,SD6187,54.285476,-2.589824,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+3098,Beetham,SD4979,54.209734,-2.773231,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+3125,Belah,NY3957,54.911121,-2.950216,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+3173,Belle Vue,NY1131,54.672973,-3.379329,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+3174,Belle Vue,NY3755,54.894471,-2.976019,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+3377,Berrier,NY4029,54.658387,-2.929272,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+3504,Bewaldeth,NY2034,54.701624,-3.228293,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+3506,Bewcastle,NY5674,55.06477,-2.683355,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+3605,Biggar,SD1966,54.085646,-3.234413,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+3620,Biglands,NY2553,54.868483,-3.161603,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+3624,Bigrigg,NY0013,54.503997,-3.543364,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+3796,Birkby,NY0637,54.723695,-3.461019,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+3808,Birkett Mire,NY3124,54.606432,-3.0697291,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+3814,Birks,SD6591,54.313384,-2.5394856,Yorkshire,West Riding,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+3981,Blackbeck,NY0206,54.448383,-3.498702,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+4009,Blackdyke,NY1352,54.861152,-3.349132,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+4021,Blackford,NY3962,54.949543,-2.944096,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+4123,Blackwell,NY4052,54.864256,-2.932598,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+4199,Blagill,NY7347,54.820332,-2.40772,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+4277,Blawith,SD2888,54.285713,-3.096048,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+4285,Bleachgreen,NX9819,54.559138,-3.574134,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+4298,Bleatarn,NY7313,54.519238,-2.417074,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+4305,Blencarn,NY6331,54.675479,-2.561345,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+4306,Blencogo,NY1947,54.819952,-3.252037,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+4314,Blennerhasset,NY1741,54.76099,-3.27743,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+4327,Blindcrake,NY1434,54.701024,-3.322877,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+4338,Blitterlees,NY1152,54.858925,-3.387227,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+4569,Bolton,NY6323,54.602574,-2.5623596,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+4577,Bolton Low Houses,NY2344,54.786862,-3.191142,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+4579,Bolton New Houses,NY2444,54.786175,-3.16935,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+4584,Bolton Wood Lane,NY2444,54.786976,-3.179482,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+4589,Boltonfellend,NY4768,55.010021,-2.820576,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+4590,Boltongate,NY2240,54.755781,-3.198776,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+4597,Bomby,NY5217,54.551393,-2.740532,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+4619,Bonning Gate,SD4895,54.349695,-2.79998,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+4668,Boot,NY1701,54.39862,-3.268439,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+4690,Bootle,SD1088,54.281638,-3.3734899,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+4704,Border,NY1654,54.873684,-3.3105634,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+4765,Borwick Rails,SD1879,54.200168,-3.2584929,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+4814,Botcherby,NY4155,54.891497,-2.907502,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+4822,Bothel,NY1838,54.738085,-3.2725532,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+4930,Boustead Hill,NY2959,54.920898,-3.101481,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+4931,Bouth,SD3285,54.261372,-3.033162,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+4971,Bowderdale,NY6704,54.436136,-2.497262,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+5002,Bowland Bridge,SD4189,54.298792,-2.894264,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+5025,Bowmanstead,SD3096,54.362376,-3.07648,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+5027,Bowness-on-Solway,NY2262,54.952499,-3.214446,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+5028,Bowness-On-Windermere,SD4096,54.36239,-2.911035,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+5037,Bowston,SD4996,54.363326,-2.77716,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+5101,Brackenber,NY7219,54.570414,-2.431517,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+5105,Brackenlands,NY2547,54.814155,-3.156931,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+5106,Brackenthwaite,NY1522,54.588369,-3.309149,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+5107,Brackenthwaite,NY2946,54.807958,-3.098406,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+5271,Braithwaite,NY2323,54.603084,-3.189641,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+5310,Brampton,NY5361,54.942168,-2.7345724,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+5311,Brampton,NY6823,54.604321,-2.495347,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+5357,Brandlingill,NY1226,54.626439,-3.361489,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+5390,Bransty,NX9719,54.556307,-3.585082,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+5393,Branthwaite,NY0524,54.610039,-3.457719,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+5394,Branthwaite,NY2937,54.725338,-3.091512,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+5395,Branthwaite Edge,NY0524,54.602207,-3.4721169,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+5438,Braystones,NY0005,54.439139,-3.533368,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+5582,Bridekirk,NY1133,54.687941,-3.367131,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+5594,Bridge End,NY3748,54.829198,-2.979425,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+5647,Bridgefoot,NY0529,54.649044,-3.465314,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+5668,Bridgend,NY3914,54.524945,-2.931431,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+5699,Briery,NY2824,54.607456,-3.107709,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+5703,Brigflatts,SD6491,54.31448,-2.553654,Yorkshire,West Riding,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+5707,Brigham,NY0830,54.660083,-3.4229097,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+5708,Brigham,NY2723,54.604625,-3.12234,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+5740,Brigsteer,SD4789,54.298447,-2.802828,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+5796,Brisco,NY4251,54.85738,-2.902997,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+5797,Briscoe,NY0211,54.484845,-3.514207,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+5862,Broad Oak,SD1194,54.340398,-3.365402,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+5862,Oak, Broad,SD1194,54.340398,-3.365402,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+5960,Broadwath,NY4855,54.890082,-2.802078,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+6018,Brockleymoor,NY4936,54.724535,-2.78949,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+6056,Bromfield,NY1746,54.810461,-3.283036,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+6209,Broom,NY6623,54.601022,-2.527804,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+6235,Broomfield,NY3448,54.822477,-3.0287401,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+6287,Brothybeck,NY3343,54.781154,-3.029264,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+6298,Brough,NY7914,54.526436,-2.3182382,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+6302,Brough Sowerby,NY7912,54.5099,-2.313281,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+6321,Broughton Beck,SD2882,54.234583,-3.104604,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+6323,Broughton Cross,NY0730,54.657959,-3.433854,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+6327,Broughton in Furness,SD2187,54.274055,-3.206251,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+6329,Broughton Mills,SD2290,54.305095,-3.194095,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+6330,Broughton Moor,NY0533,54.686916,-3.470789,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+6343,Brow Edge,SD3584,54.247539,-2.9990304,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+6359,Brownber,NY7005,54.446746,-2.457203,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+6390,Browtop,NY0624,54.610975,-3.454655,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+6431,Brunstock,NY4159,54.926598,-2.912505,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+6626,Buckabank,NY3749,54.833964,-2.979074,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+6775,Bullgill,NY0938,54.732899,-3.404661,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+6879,Burgh by Sands,NY3259,54.921218,-3.0588125,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+6954,Burneside,SD5095,54.35203,-2.758483,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+6997,Burnrigg,NY4755,54.893855,-2.815718,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+7044,Burrells,NY6818,54.558758,-2.494794,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+7102,Burtholme,NY5463,54.966233,-2.7115,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+7104,Burthwaite,NY4149,54.837463,-2.910493,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+7151,Burton-in-Kendal,SD5376,54.182247,-2.721356,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+7211,Bushfield,NY4780,55.111552,-2.8323624,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+7218,Busk,NY6042,54.773209,-2.608556,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+7261,Buttermere,NY1716,54.541413,-3.275832,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+7268,Butterwick,NY5119,54.570243,-2.758662,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+7511,Caldbeck,NY3239,54.749121,-3.054584,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+7525,Calder,NY0303,54.418205,-3.482343,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+7526,Calder Bridge,NY0406,54.44101,-3.476998,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+7604,Calthwaite,NY4640,54.755732,-2.828167,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+7622,Calvo,NY1453,54.872079,-3.33625,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+7669,Camerton,NY0330,54.663565,-3.494941,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+7723,Canal Foot,SD3177,54.189983,-3.056669,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+7871,Cardew,NY3449,54.834926,-3.025806,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+7872,Cardewlees,NY3451,54.851187,-3.015782,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+7887,Cardurnock,NY1758,54.917065,-3.290155,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+7905,Cargo,NY3659,54.923122,-2.989195,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+7913,Cark,SD3676,54.180334,-2.975214,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+7924,Carleton,NY0109,54.470823,-3.515572,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+7925,Carleton,NY4252,54.867803,-2.891076,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+7926,Carleton,NY5229,54.66109,-2.731674,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+7931,Carleton Hall,SD0898,54.369175,-3.4175871,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+7942,Carlisle,NY4055,54.892642,-2.933035,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+8054,Carr Bank,SD4778,54.202673,-2.810935,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+8133,Cartmel,SD3778,54.202444,-2.952738,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+8134,Cartmel Fell,SD4188,54.286314,-2.894716,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+8139,Carwinley,NY4072,55.04622,-2.9351,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+8187,Casterton,SD6279,54.211217,-2.577664,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+8204,Castle Carrock,NY5455,54.89174,-2.714957,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+8261,Castlerigg,NY2822,54.591706,-3.11208,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+8273,Castletown,NY5030,54.663565,-2.767377,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+8290,Cat Bank,SD3097,54.366253,-3.075042,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+8327,Catholes,SD6590,54.304397,-2.5393681,Yorkshire,West Riding,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+8333,Catlowdy,NY4676,55.084253,-2.846377,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+8362,Catterlen,NY4833,54.695357,-2.796014,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+8401,Causeway End,SD3484,54.24741,-3.0143744,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+8402,Causeway End,SD4885,54.264384,-2.789116,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+8415,Cautley,SD6895,54.352905,-2.483856,Yorkshire,West Riding,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+8629,Chalkfoot,NY3348,54.822344,-3.0443011,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+8671,Chapel,NY2231,54.673996,-3.198691,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+8720,Chapel Stile,NY3105,54.441404,-3.053108,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+8731,Chapels,SD2383,54.24529,-3.170114,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+9060,Chestnut Hill,NY2823,54.603805,-3.113803,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+9309,Church Brough,NY7914,54.522239,-2.316682,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+9438,Churchtown,NY3641,54.759841,-2.9960699,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+9601,Clappersgate,NY3603,54.422828,-2.974797,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+9675,Clawthorpe,SD5377,54.193862,-2.711902,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+9747,Cleator,NY0113,54.50862,-3.518979,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+9748,Cleator Moor,NY0115,54.5218,-3.517227,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+9818,Cliburn,NY5825,54.620874,-2.641018,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+9850,Clifton,NY5326,54.632563,-2.7217452,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+10125,Cockermouth,NY1230,54.663739,-3.364566,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+10139,Cockley Beck,NY2401,54.404776,-3.1618383,Lancashire,,Cumbria,Copeland,,Cumbria,England,,Settlement
+10250,Colby,NY6620,54.577782,-2.518865,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+10450,Colt Park,SD2770,54.120659,-3.1183776,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+10452,Colthouse,SD3598,54.374795,-2.990593,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+10456,Colton,SD3185,54.264484,-3.0504597,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+10541,Common End,NY0022,54.589419,-3.540556,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+10674,Coniston,SD3097,54.369338,-3.075831,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+10840,Corby Hill,NY4757,54.90544,-2.816888,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+10880,Corney,SD1191,54.311733,-3.36476,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+10981,Cotehill,NY4650,54.843416,-2.832297,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+10983,Cotes,SD4886,54.275328,-2.792396,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+11063,Coulderton,NX9808,54.465725,-3.569851,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+11097,Coupland,NY7118,54.564517,-2.44692,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+11167,Cowen Head,SD4997,54.368403,-2.784182,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+11175,Cowgill,SD7587,54.279416,-2.374715,Yorkshire,West Riding,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+11263,Crackenthorpe,NY6622,54.593266,-2.525283,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+11540,Crewgarth,NY6034,54.699429,-2.6221816,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+11612,Croasdale,NY0917,54.544799,-3.403447,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+11657,Croftlands,SD2877,54.186382,-3.093572,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+11660,Crofton,NY3050,54.839903,-3.0914681,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+11676,Croglin,NY5747,54.819198,-2.664496,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+11700,Crook,SD4695,54.348768,-2.8291148,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+11703,Crookdake,NY1943,54.782185,-3.25398,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+11718,Crooklands,SD5383,54.246497,-2.717412,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+11728,Crosby,NY0738,54.732517,-3.437263,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+11732,Crosby Garrett,NY7209,54.479555,-2.421007,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+11733,Crosby Ravensworth,NY6214,54.526318,-2.588408,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+11734,Crosby Villa,NY0939,54.738298,-3.4116554,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+11737,Crosby-on-Eden,NY4559,54.929228,-2.852327,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+11744,Croslands Park,SD2170,54.128538,-3.206152,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+11829,Crosscanonby,NY0639,54.737596,-3.44698,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+11830,Crosscrake,SD5286,54.275958,-2.734034,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+11840,Crossgates,NY0721,54.576954,-3.428379,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+11843,Crossgill,NY7440,54.754268,-2.4054958,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+11859,Crosslands,SD3489,54.296907,-3.00793,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+11892,Crosthwaite,SD4391,54.315985,-2.866121,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+12091,Culgaith,NY6129,54.66084,-2.6061,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+12131,Cumdivock,NY3448,54.829849,-3.020384,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+12136,Cummersdale,NY3953,54.869485,-2.951356,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+12144,Cumrew,NY5450,54.85089,-2.706602,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+12145,Cumwhinton,NY4452,54.866037,-2.858769,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+12146,Cumwhitton,NY5052,54.862082,-2.772497,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+12175,Currock,NY4054,54.879071,-2.934343,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+12424,Dacre,NY4526,54.630439,-2.839081,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+12475,Dale,NY5444,54.789738,-2.709113,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+12479,Dale Bottom,NY2921,54.586039,-3.09088,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+12538,Dalston,NY3650,54.841323,-2.9842331,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+12547,Dalton,SD5476,54.183963,-2.698707,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+12556,Dalton-In-Furness,SD2373,54.15579,-3.167894,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+12751,Dean,NY0725,54.613501,-3.4350191,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+12792,Deanscales,NY0926,54.625934,-3.40562,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+12796,Dearham,NY0735,54.709938,-3.441944,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+12830,Deepthwaite,SD5183,54.243132,-2.738837,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+12892,Dendron,SD2470,54.125711,-3.155265,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+12941,Dent,SD7086,54.277319,-2.454143,Yorkshire,West Riding,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+12956,Denton Holme,NY3954,54.883707,-2.939127,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+13162,Distington,NY0023,54.596387,-3.539705,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+13204,Dockray,NY3921,54.585088,-2.936114,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+13404,Dovenby,NY0933,54.687476,-3.407746,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+13431,Down Hall,NY2852,54.862588,-3.119366,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+13499,Dragley Beck,SD2977,54.190208,-3.081963,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+13583,Drigg,SD0699,54.379652,-3.437224,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+13630,Drumburgh,NY2659,54.927009,-3.150024,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+13675,Drybeck,NY6615,54.530986,-2.516865,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+13699,Dubwath,NY1931,54.669925,-3.245867,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+13728,Duddon Bridge,SD1988,54.282624,-3.238759,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+13753,Dufton,NY6924,54.618423,-2.476935,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+13828,Dundraw,NY2149,54.837356,-3.222431,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+13884,Dunnerholme,SD2179,54.20064,-3.2125169,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+13893,Dunningwell,SD1784,54.244933,-3.275202,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+13972,Durdar,NY4051,54.851016,-2.924661,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+14074,Eaglesfield,NY0928,54.640336,-3.403792,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+14089,Eamont Bridge,NY5228,54.650709,-2.739237,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+14241,Curthwaite, East,NY3348,54.827368,-3.037445,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+14241,East Curthwaite,NY3348,54.827368,-3.037445,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+14620,Easton,NY2759,54.920541,-3.1299259,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+14621,Easton,NY4372,55.039364,-2.890655,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+14717,Eccle Riggs,SD2186,54.263537,-3.2143624,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+14752,Edderside,NY1045,54.797234,-3.398335,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+14758,Eden Mount,SD4078,54.196797,-2.915973,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+14764,Edenhall,NY5632,54.684316,-2.678578,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+14768,Edentown,NY3957,54.909398,-2.94066,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+14932,Egremont,NY0110,54.481022,-3.5287448,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+15014,Ellenborough,NY0435,54.709497,-3.483015,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+15057,Ellonby,NY4235,54.711239,-2.892451,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+15139,Elterwater,NY3204,54.433098,-3.036708,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+15171,Embleton,NY1730,54.662859,-3.2829597,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+15353,Endmoor,SD5384,54.257507,-2.709928,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+15385,Ennerdale Bridge,NY0715,54.529956,-3.435237,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+15463,Eskdale Green,NY1400,54.390096,-3.325622,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+15494,Etterby,NY3857,54.907399,-2.954963,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+15553,Ewanrigg,NY0435,54.704461,-3.490592,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+15664,Fair Hill,NY5131,54.674407,-2.758277,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+15757,Far Arnside,SD4476,54.180229,-2.846503,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+15762,Far End,SD3098,54.373808,-3.07447,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+15773,Far Sawrey,SD3794,54.340017,-2.956686,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+15786,Farlam,NY5558,54.922239,-2.695151,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+15798,Farleton,SD5381,54.22271,-2.712398,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+15895,Faugh,NY5054,54.886343,-2.768799,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+15986,Fell Side,NY3037,54.727246,-3.079141,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+15988,Felldyke,NY0819,54.557843,-3.4241252,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+16056,Fenton,NY5056,54.896636,-2.775388,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+16090,Ferney Green,SD4096,54.355983,-2.9247231,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+16201,Field Broughton,SD3881,54.223281,-2.943248,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+16268,Fingland,NY2557,54.902625,-3.162585,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+16286,Finsthwaite,SD3687,54.283288,-2.969963,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+16299,Firbank,SD6294,54.342416,-2.577902,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+16449,Fletchertown,NY2043,54.775653,-3.233567,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+16459,Flimby,NY0233,54.688431,-3.514827,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+16472,Flitholme,NY7515,54.529987,-2.373143,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+16491,Flookburgh,SD3676,54.175918,-2.976642,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+16573,Force Forge,SD3390,54.307927,-3.0228,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+16575,Force Mills,SD3491,54.310311,-3.0159211,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+16656,Forest Head,NY5857,54.911368,-2.654158,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+16751,Fothergill,NY0234,54.695179,-3.514303,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+16756,Foulbridge,NY4148,54.826449,-2.905108,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+16842,Foxfield,SD2185,54.259781,-3.21351,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+17030,Frizington,NY0317,54.543545,-3.493222,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+17237,Gaisgill,NY6305,54.441825,-2.558916,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+17238,Gaitsgill,NY3846,54.811941,-2.953629,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+17254,Galligill,NY7545,54.79925,-2.3903915,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+17291,Gamblesby,NY6139,54.748063,-2.605072,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+17293,Gamelsby,NY2552,54.861332,-3.157502,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+17351,Garlands,NY4353,54.873627,-2.88123,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+17376,Garnett Bridge,SD5299,54.386138,-2.736784,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+17397,Garrigill,NY7441,54.766891,-2.398634,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+17405,Garsdale,SD7489,54.30067,-2.389507,Yorkshire,West Riding,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+17406,Garsdale Head,SD7891,54.321172,-2.328465,Yorkshire,West Riding,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+17430,Garth Row,SD5297,54.369649,-2.728793,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+17489,Gatebeck,SD5485,54.266313,-2.694725,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+17497,Gatesgarth,NY1914,54.522983,-3.245252,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+17530,Gawthrop,SD6987,54.281063,-2.46919,Yorkshire,West Riding,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+17531,Gawthwaite,SD2784,54.254418,-3.117414,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+17679,Gilcrux,NY1137,54.729148,-3.377556,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+17692,Gilgarran,NY0323,54.593276,-3.499669,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+17698,Gillbank,SD3698,54.373467,-2.986692,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+17870,Glasson,NY0336,54.713291,-3.503335,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+17871,Glasson,NY2560,54.932236,-3.167341,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+17873,Glassonby,NY5738,54.742243,-2.65957,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+17887,Gleaston,SD2570,54.12874,-3.13928,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+17953,Glenridding,NY3816,54.542236,-2.956773,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+18174,Goodyhills,NY1046,54.807655,-3.390915,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+18190,Goose Green,SD5484,54.255978,-2.694551,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+18302,Gosforth,NY0603,54.418554,-3.4389409,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+18420,Grange,NY2517,54.546314,-3.158615,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+18450,Grange-Over-Sands,SD4077,54.193186,-2.9111218,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+18472,Grasmere,NY3307,54.459301,-3.020401,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+18476,Grassgarth,NY3444,54.786537,-3.0278273,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+18477,Grassgarth,SD4499,54.388384,-2.859252,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+18505,Grayrigg,SD5797,54.367993,-2.648971,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+18509,Grayson Green,NX9925,54.610602,-3.556841,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+18523,Asby, Great,NY6813,54.511767,-2.491909,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+18523,Great Asby,NY6813,54.511767,-2.491909,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+18544,Blencow, Great,NY4532,54.683739,-2.842212,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+18544,Great Blencow,NY4532,54.683739,-2.842212,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+18559,Broughton, Great,NY0731,54.669116,-3.44045,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+18559,Great Broughton,NY0731,54.669116,-3.44045,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+18582,Clifton, Great,NY0429,54.653282,-3.488563,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+18582,Great Clifton,NY0429,54.653282,-3.488563,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+18587,Corby, Great,NY4754,54.882145,-2.819846,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+18587,Great Corby,NY4754,54.882145,-2.819846,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+18595,Crosthwaite, Great,NY2624,54.606212,-3.144833,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+18595,Great Crosthwaite,NY2624,54.606212,-3.144833,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+18686,Great Musgrave,NY7613,54.515834,-2.357567,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+18686,Musgrave, Great,NY7613,54.515834,-2.357567,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+18693,Great Ormside,NY7017,54.550086,-2.460677,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+18693,Ormside, Great,NY7017,54.550086,-2.460677,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+18694,Great Orton,NY3254,54.876455,-3.045874,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+18694,Orton, Great,NY3254,54.876455,-3.045874,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+18713,Great Salkeld,NY5536,54.722765,-2.698643,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+18713,Salkeld, Great,NY5536,54.722765,-2.698643,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+18732,Great Strickland,NY5522,54.598257,-2.687842,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+18732,Strickland, Great,NY5522,54.598257,-2.687842,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+18750,Great Urswick,SD2674,54.16014,-3.126359,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+18750,Urswick, Great,SD2674,54.16014,-3.126359,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+18793,Green Bank,SD3880,54.21478,-2.949955,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+18828,Green Head,NY3649,54.831722,-2.9978393,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+18844,Green Quarter,NY4604,54.429038,-2.829272,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+18992,Greengarth Hall,NY0700,54.386962,-3.4336001,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+18997,Greengill,NY1037,54.721372,-3.391065,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+19026,Greenholme,NY5905,54.445099,-2.624499,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+19050,Greenodd,SD3182,54.232943,-3.056999,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+19052,Greenrow,NY1152,54.86251,-3.388129,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+19063,Greenside,NY7103,54.429723,-2.44314,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+19081,Greenwell,NY5356,54.900645,-2.7226,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+19135,Greysouthen,NY0729,54.647562,-3.440556,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+19137,Greystoke,NY4430,54.669993,-2.869544,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+19138,Greystoke Gill,NY4429,54.658015,-2.857956,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+19140,Greystone,SD5179,54.204391,-2.7526937,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+19212,Grinsdale,NY3658,54.913702,-2.987248,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+19220,Grisdale,SD7793,54.334334,-2.342918,Yorkshire,West Riding,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+19227,Grizebeck,SD2385,54.25587,-3.172716,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+19228,Grizedale,SD3394,54.34101,-3.021929,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+19349,Gullom Holme,NY6528,54.649624,-2.535417,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+19530,Hackthorpe,NY5423,54.603698,-2.71052,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+19618,Haile,NY0308,54.46464,-3.493063,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+19650,Hale,SD5078,54.199582,-2.761207,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+19693,Halfpenny,SD5387,54.280665,-2.714934,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+19722,Hall Dunnerdale,SD2195,54.350071,-3.208476,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+19746,Hall Santon,NY1001,54.399055,-3.384294,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+19748,Hall Waberthwaite,SD1095,54.343623,-3.382123,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+19759,Hallbankgate,NY5759,54.929938,-2.660078,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+19796,Hallthwaites,SD1885,54.257566,-3.25428,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+19822,Haltcliff Bridge,NY3536,54.718927,-3.001295,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+19942,Hampsfield,SD3979,54.207416,-2.926021,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+20111,Hardendale,NY5814,54.525439,-2.642721,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+20185,Haresceugh,NY6042,54.779945,-2.609435,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+20206,Harker,NY3960,54.939212,-2.943542,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+20207,Harker Marsh,NY0634,54.697239,-3.456188,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+20287,Harraby,NY4154,54.883107,-2.911834,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+20290,Harras,NX9818,54.546941,-3.578348,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+20295,Harrington,NX9925,54.611224,-3.564406,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+20302,Harriston,NY1641,54.761853,-3.306971,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+20332,Hartbarrow,SD4090,54.302067,-2.9235139,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+20363,Hartley,NY7808,54.473238,-2.3363726,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+20403,Hartsop,NY4013,54.511079,-2.918202,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+20597,Haverigg,SD1678,54.198148,-3.288965,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+20601,Haverthwaite,SD3484,54.25239,-3.014411,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+20611,Hawcoat,SD2071,54.135651,-3.222736,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+20622,Hawk Hill,NY0029,54.646158,-3.5511949,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+20649,Hawksdale,NY3648,54.823856,-2.984277,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+20651,Hawkshead,SD3597,54.370097,-2.996899,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+20652,Hawkshead Hill,SD3398,54.379019,-3.023027,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+20667,Haws Bank,SD2996,54.360095,-3.080267,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+20749,Hayton,NY1041,54.75953,-3.391409,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+20750,Hayton,NY5057,54.912095,-2.767995,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+20785,Hazelslack,SD4778,54.20247,-2.800966,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+20814,Headless Cross,SD3878,54.193995,-2.9517566,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+20826,Heads Nook,NY4955,54.888652,-2.787083,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+20852,Heaning,SD4399,54.384224,-2.875333,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+20959,Heathwaite,SD4197,54.373703,-2.90051,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+21029,Heggle Lane,NY3635,54.708696,-2.988626,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+21040,Helbeck,NY7915,54.534754,-2.318139,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+21082,Helmside,SD6888,54.28662,-2.4930524,Yorkshire,West Riding,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+21095,Helton,NY5122,54.590926,-2.756725,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+21247,Hensingham,NX9817,54.538803,-3.569564,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+21352,Hesket Newmarket,NY3438,54.736723,-3.022701,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+21380,Hethersgill,NY4767,54.996456,-2.817157,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+21381,Hetherside,NY4366,54.988017,-2.882797,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+21394,Heversham,SD4983,54.240615,-2.77341,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+21400,Hewer Hill,NY3738,54.733012,-2.9798814,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+21470,Bankhill, High,NY5642,54.772807,-2.683944,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+21470,High Bankhill,NY5642,54.772807,-2.683944,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+21477,Biggins, High,SD5978,54.196723,-2.616916,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+21477,High Biggins,SD5978,54.196723,-2.616916,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+21491,Cark, High,SD3882,54.234258,-2.950878,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+21491,High Cark,SD3882,54.234258,-2.950878,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+21492,Casterton, High,SD6279,54.205843,-2.571824,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+21492,High Casterton,SD6279,54.205843,-2.571824,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+21509,Cunsey, High,SD3894,54.339424,-2.952058,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+21509,High Cunsey,SD3894,54.339424,-2.952058,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+21527,Green, High,NY4103,54.42489,-2.906256,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+21527,High Green,NY4103,54.42489,-2.906256,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+21539,Harrington, High,NY0025,54.617445,-3.542621,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+21539,High Harrington,NY0025,54.617445,-3.542621,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+21549,Hesket, High,NY4744,54.793107,-2.816488,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+21549,High Hesket,NY4744,54.793107,-2.816488,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+21551,High Hill,NY2623,54.604864,-3.144795,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+21551,Hill, High,NY2623,54.604864,-3.144795,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+21557,High Ireby,NY2337,54.723451,-3.196269,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+21557,Ireby, High,NY2337,54.723451,-3.196269,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+21567,High Longthwaite,NY2546,54.810928,-3.165397,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+21567,Longthwaite, High,NY2546,54.810928,-3.165397,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+21568,High Lorton,NY1625,54.620816,-3.302291,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+21568,Lorton, High,NY1625,54.620816,-3.302291,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+21578,High Newton,SD4082,54.236495,-2.919767,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+21578,Newton, High,SD4082,54.236495,-2.919767,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+21580,High Nibthwaite,SD2989,54.29806,-3.086418,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+21580,Nibthwaite, High,SD2989,54.29806,-3.086418,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+21581,High Oaks,SD6291,54.313687,-2.573319,Yorkshire,West Riding,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+21581,Oaks, High,SD6291,54.313687,-2.573319,Yorkshire,West Riding,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+21587,High Park,SD5390,54.303431,-2.7237649,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+21587,Park, High,SD5390,54.303431,-2.7237649,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+21591,High Row,NY3535,54.710429,-2.996429,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+21591,Row, High,NY3535,54.710429,-2.996429,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+21592,High Row,NY3821,54.588082,-2.955526,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+21592,Row, High,NY3821,54.588082,-2.955526,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+21594,High Scales,NY1845,54.797345,-3.265338,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+21594,Scales, High,NY1845,54.797345,-3.265338,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+21595,High Sellafield,NY0204,54.423414,-3.510261,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+21595,Sellafield, High,NY0204,54.423414,-3.510261,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+21599,High Side,NY2330,54.66496,-3.1880763,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+21599,Side, High,NY2330,54.66496,-3.1880763,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+21621,High Walton,NX9812,54.49304,-3.57627,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+21621,Walton, High,NX9812,54.49304,-3.57627,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+21623,High Water Head,SD3198,54.375413,-3.053466,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+21623,Water Head, High,SD3198,54.375413,-3.053466,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+21625,High Whinnow,NY3051,54.848888,-3.0917107,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+21625,Whinnow, High,NY3051,54.848888,-3.0917107,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+21629,High Wray,SD3799,54.391188,-2.964036,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+21629,Wray, High,SD3799,54.391188,-2.964036,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+21649,Highbridge,NY3943,54.785467,-2.940736,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+21793,Highlaws,NY1449,54.834761,-3.338131,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+21799,Highmoor,NY2647,54.818235,-3.153157,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+22044,Hilton,NY7320,54.579722,-2.416918,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+22057,Hincaster,SD5084,54.255939,-2.754954,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+22076,Hindpool,SD1969,54.118184,-3.23792,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+22210,Hoff,NY6717,54.552188,-2.503713,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+22293,Holker,SD3577,54.190501,-2.983882,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+22336,Hollins,SD6791,54.313517,-2.5087452,Yorkshire,West Riding,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+22414,Holme,SD5278,54.203296,-2.7320391,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+22431,Holme Mills,SD5278,54.195499,-2.7372045,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+22437,Holme St Cuthbert,NY1047,54.810668,-3.3934515,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+22464,Holmrook,SD0799,54.383741,-3.418273,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+22472,Holmwrangle,NY5148,54.828927,-2.752764,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+22683,Hopebeck,NY1623,54.603768,-3.298031,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+22789,Hornsby,NY5150,54.843747,-2.754129,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+22930,Houghton,NY4059,54.927394,-2.926099,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+22997,How,NY5056,54.899821,-2.769056,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+23038,Howgate,NX9921,54.577048,-3.55912,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+23039,Howgill,SD6396,54.363435,-2.563238,Yorkshire,West Riding,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+23062,Howtown,NY4419,54.569736,-2.862582,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+23079,Hubbersty Head,SD4291,54.317204,-2.883902,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+23196,Hunsonby,NY5835,54.712145,-2.651413,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+23280,Hurst,NY4241,54.76157,-2.892004,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+23323,Hutton,NY4326,54.632704,-2.878337,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+23332,Hutton End,NY4538,54.738032,-2.853433,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+23338,Hutton Roof,NY3734,54.697115,-2.975931,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+23339,Hutton Roof,SD5778,54.198852,-2.6597164,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+23360,Hycemoor,SD0989,54.291658,-3.391138,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+23411,Hyton,SD0987,54.274782,-3.397019,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+23426,Ickenthwaite,SD3289,54.292077,-3.0461995,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+23573,Ings,SD4498,54.381492,-2.855258,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+23698,Ireby,NY2339,54.740294,-3.184323,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+23707,Ireleth,SD2277,54.18939,-3.196888,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+23721,Irthington,NY4961,54.946928,-2.784709,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+23734,Isel,NY1533,54.691733,-3.308595,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+23774,Ivegill,NY4143,54.781223,-2.907985,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+23847,Johnby,NY4333,54.68973,-2.884223,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+23887,Kaber,NY7911,54.498985,-2.314896,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+23906,Kearstwick,SD6080,54.215216,-2.603391,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+23918,Keekle,NY0016,54.532243,-3.541493,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+23949,Keld,NY5514,54.522929,-2.690577,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+23966,Kelleth,NY6505,54.441521,-2.526532,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+23974,Kells,NX9617,54.53868,-3.599547,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+23986,Kelsick,NY1950,54.840191,-3.250328,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+24037,Kendal,SD5193,54.330422,-2.747398,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+24103,Kentmere,NY4504,54.431619,-2.84064,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+24113,Kentrigg,SD5194,54.342383,-2.749076,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+24115,Kents Bank,SD3976,54.176923,-2.92917,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+24158,Kershopefoot,NY4782,55.135828,-2.821272,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+24174,Keswick,NY2623,54.601544,-3.138565,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+24236,Kidburngill,NY0621,54.575443,-3.4556809,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+24332,Killington,SD6188,54.294603,-2.5960565,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+24378,Kilnhill,NY2132,54.680565,-3.215947,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+24493,King's Meaburn,NY6221,54.583926,-2.588293,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+24567,Kingside Hill,NY1551,54.849382,-3.31603,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+24642,Kingstown,NY3959,54.925281,-2.943684,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+24674,Kinkry Hill,NY5175,55.06935,-2.762594,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+24782,Kirkandrews-on-Eden,NY3558,54.914435,-3.007391,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+24785,Kirkbampton,NY3056,54.898238,-3.07889,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+24787,Kirkborough,NY0536,54.710011,-3.4760205,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+24788,Kirkbride,NY2256,54.894083,-3.202708,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+24802,Kirkby Lonsdale,SD6178,54.201991,-2.597035,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+24809,Kirkby Stephen,NY7708,54.474455,-2.349074,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+24810,Kirkby Thore,NY6325,54.624452,-2.561247,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+24816,Kirkby-in-Furness,SD2382,54.231515,-3.181573,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+24819,Kirkcambeck,NY5368,55.011666,-2.731632,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+24842,Kirkhouse,NY5659,54.931212,-2.673676,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+24849,Kirkland,NY0717,54.54718,-3.438006,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+24850,Kirkland,NY2748,54.825657,-3.128462,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+24851,Kirkland,NY6432,54.687204,-2.5522,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+24853,Kirkland Guards,NY1840,54.749262,-3.265392,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+24861,Kirklinton,NY4367,54.995156,-2.889675,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+24872,Kirkoswald,NY5541,54.764332,-2.693484,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+24876,Kirksanton,SD1380,54.216112,-3.323264,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+24949,Kiskin,SD0986,54.261541,-3.3985378,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+25047,Knipe Fold,SD3499,54.389078,-3.013144,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+25054,Knock,NY6827,54.63784,-2.495754,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+25115,Knowefield,NY4057,54.909193,-2.932233,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+25223,Lady Hall,SD1985,54.26266,-3.239696,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+25267,Laithes,NY4632,54.688761,-2.830681,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+25287,Lakeside,SD3787,54.278881,-2.959109,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+25306,Lambfoot,NY1630,54.660395,-3.297511,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+25335,Lamonby,NY4135,54.712863,-2.915771,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+25343,Lamplugh,NY0820,54.575671,-3.411331,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+25389,Lane End,SD1093,54.328943,-3.376864,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+25408,Lane Ends,SD3484,54.24741,-3.0143744,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+25442,Lanercost,NY5563,54.967492,-2.694277,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+25543,Langrigg,NY1645,54.799671,-3.300413,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+25544,Langrigg,NY7714,54.526623,-2.356116,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+25572,Langwathby,NY5633,54.697686,-2.67098,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+25702,Laversdale,NY4762,54.954777,-2.816951,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+25773,Lazonby,NY5439,54.75013,-2.703309,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+25793,Lea Yeat,SD7686,54.27733,-2.369076,Yorkshire,West Riding,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+25807,Leadgate,NY7043,54.788258,-2.455605,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+25845,Leasgill,SD4983,54.248853,-2.772551,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+25919,Leece,SD2469,54.115367,-3.156048,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+25952,Legburthwaite,NY3219,54.56436,-3.052408,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+26025,Lenacre,SD6689,54.295478,-2.523887,Yorkshire,West Riding,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+26070,Lessonhall,NY2250,54.840152,-3.20984,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+26118,Levens,SD4886,54.26885,-2.787865,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+26173,Leys,NY0618,54.548491,-3.4547208,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+26304,Lindal in Furness,SD2575,54.172436,-3.1501835,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+26305,Lindale,SD4080,54.214902,-2.910853,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+26379,Linstock,NY4258,54.916275,-2.898855,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+26452,Asby, Little,NY6909,54.481301,-2.469164,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+26452,Little Asby,NY6909,54.481301,-2.469164,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+26460,Bampton, Little,NY2755,54.886232,-3.137949,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+26460,Little Bampton,NY2755,54.886232,-3.137949,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+26480,Blencow, Little,NY4532,54.687761,-2.845397,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+26480,Little Blencow,NY4532,54.687761,-2.845397,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+26492,Braithwaite, Little,NY2323,54.59629,-3.1932888,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+26492,Little Braithwaite,NY2323,54.59629,-3.1932888,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+26505,Broughton, Little,NY0731,54.671949,-3.42892,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+26505,Little Broughton,NY0731,54.671949,-3.42892,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+26531,Clifton, Little,NY0528,54.644761,-3.464974,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+26531,Little Clifton,NY0528,54.644761,-3.464974,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+26541,Corby, Little,NY4757,54.906333,-2.817842,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+26541,Little Corby,NY4757,54.906333,-2.817842,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+26657,Langdale, Little,NY3103,54.420634,-3.054117,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+26657,Little Langdale,NY3103,54.420634,-3.054117,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+26726,Little Musgrave,NY7513,54.512185,-2.375298,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+26726,Musgrave, Little,NY7513,54.512185,-2.375298,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+26740,Little Ormside,NY7016,54.544276,-2.452109,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+26740,Ormside, Little,NY7016,54.544276,-2.452109,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+26741,Little Orton,NY3555,54.887281,-3.009051,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+26741,Orton, Little,NY3555,54.887281,-3.009051,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+26769,Little Salkeld,NY5636,54.717599,-2.672924,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+26769,Salkeld, Little,NY5636,54.717599,-2.672924,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+26804,Little Strickland,NY5619,54.570383,-2.67755,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+26804,Strickland, Little,NY5619,54.570383,-2.67755,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+26828,Little Town,NY2319,54.565377,-3.185449,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+26828,Town, Little,NY2319,54.565377,-3.185449,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+26833,Little Urswick,SD2673,54.153228,-3.125405,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+26833,Urswick, Little,SD2673,54.153228,-3.125405,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+27826,Lockhills,NY5047,54.820399,-2.765678,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+27962,Long Marton,NY6624,54.615174,-2.517498,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+27962,Marton, Long,NY6624,54.615174,-2.517498,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+27990,Longburgh,NY3058,54.919101,-3.081461,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+27997,Longcroft,NY2158,54.911004,-3.224444,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+28001,Longdale,NY6405,54.440526,-2.548105,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+28002,Longdales,NY5144,54.794891,-2.748865,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+28044,Longlands,NY2636,54.71412,-3.138557,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+28065,Longpark,NY4261,54.948106,-2.896442,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+28082,Longsowerby,NY3954,54.883528,-2.950658,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+28095,Longthwaite,NY4322,54.598165,-2.869854,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+28100,Longtown,NY3868,55.008618,-2.962996,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+28127,Loppergarth,SD2577,54.185207,-3.137001,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+28189,Biggins, Low,SD6078,54.19714,-2.607296,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+28189,Low Biggins,SD6078,54.19714,-2.607296,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+28191,Borrowbridge, Low,NY6101,54.402959,-2.6022794,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+28191,Low Borrowbridge,NY6101,54.402959,-2.6022794,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+28194,Braithwaite, Low,NY4242,54.771443,-2.893776,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+28194,Low Braithwaite,NY4242,54.771443,-2.893776,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+28201,Cotehill, Low,NY4750,54.847266,-2.821319,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+28201,Low Cotehill,NY4750,54.847266,-2.821319,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+28228,Hesket, Low,NY4646,54.810074,-2.83239,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+28228,Low Hesket,NY4646,54.81008,-2.831612,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+28231,Knipe, Low,NY5119,54.572013,-2.74864,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+28231,Low Knipe,NY5119,54.572013,-2.74864,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+28238,Lorton, Low,NY1525,54.619321,-3.312558,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+28238,Low Lorton,NY1525,54.619321,-3.312558,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+28245,Low Moresby,NX9920,54.572713,-3.556541,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+28245,Moresby, Low,NX9920,54.572713,-3.556541,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+28246,Low Newton,SD4082,54.231671,-2.915825,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+28246,Newton, Low,SD4082,54.231671,-2.915825,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+28250,Low Row,NY1944,54.793309,-3.2607249,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+28250,Row, Low,NY1944,54.793309,-3.2607249,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+28251,Low Row,NY5863,54.960204,-2.646987,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+28251,Row, Low,NY5863,54.960204,-2.646987,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+28267,Low Walton,NX9813,54.502023,-3.5766159,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+28267,Walton, Low,NX9813,54.502023,-3.5766159,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+28271,Low Whinnow,NY3051,54.85028,-3.085273,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+28271,Whinnow, Low,NY3051,54.85028,-3.085273,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+28274,Low Wood,SD3483,54.243081,-3.006617,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+28274,Wood, Low,SD3483,54.243081,-3.006617,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+28277,Lowca,NX9821,54.580417,-3.569616,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+28465,Hawthwaite, Lower,SD2189,54.290493,-3.2151556,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+28465,Lower Hawthwaite,SD2189,54.290493,-3.2151556,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+28703,Loweswater,NY1421,54.577476,-3.331388,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+28709,Lowgill,SD6196,54.364037,-2.5927988,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+28712,Lowick,SD2986,54.264712,-3.0915671,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+28714,Lowick Bridge,SD2986,54.268286,-3.089059,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+28715,Lowick Green,SD2985,54.258079,-3.080669,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+28721,Lowther,NY5323,54.604803,-2.716731,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+28768,Ludderburn,SD4091,54.311053,-2.9237152,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+28847,Lupton,SD5680,54.219436,-2.675289,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+29165,Mains,NY0724,54.602579,-3.4411679,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+29317,Mansergh,SD6082,54.239255,-2.612917,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+29323,Mansriggs,SD2980,54.216253,-3.088242,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+29617,Marthwaite,SD6492,54.322788,-2.548845,Yorkshire,West Riding,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+29628,Martindale,NY4318,54.562408,-2.876764,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+29641,Marton,SD2477,54.18396,-3.1649538,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+29683,Maryport,NY0336,54.714461,-3.499559,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+29725,Matterdale End,NY3923,54.603024,-2.941169,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+29741,Maulds Meaburn,NY6216,54.539703,-2.576482,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+29750,Mawbray,NY0846,54.806359,-3.425101,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+29840,Meal Bank,SD5395,54.353853,-2.710049,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+29846,Mealrigg,NY1346,54.801848,-3.347933,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+29847,Mealsgate,NY2042,54.768947,-3.230254,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+29859,Meathop,SD4380,54.218867,-2.864286,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+29952,Melkinthorpe,NY5525,54.620466,-2.686033,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+29958,Mellguards,NY4445,54.803112,-2.864138,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+29975,Melmerby,NY6137,54.728793,-2.594691,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+30179,Micklethwaite,NY2850,54.8433,-3.115717,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+30285,Middlesceugh,NY4041,54.766682,-2.92942,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+30287,Middleshaw,SD5589,54.296327,-2.679865,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+30300,Middleton,SD6286,54.275394,-2.5745097,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+30332,Middleton Place,SD0992,54.317328,-3.386469,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+30344,Middletown,NX9908,54.463409,-3.554333,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+30363,Midgeholme,NY6358,54.923863,-2.563643,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+30391,Milburn,NY6529,54.656306,-2.536497,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+30492,Mill Side,SD4484,54.249605,-2.847923,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+30519,Millbeck,NY2526,54.625479,-3.150795,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+30549,Millgillhead,NY0720,54.566644,-3.4398996,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+30557,Millholme,SD5690,54.307651,-2.668418,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+30559,Millhouse,NY3637,54.729799,-2.990692,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+30573,Millness,SD5382,54.239686,-2.714225,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+30574,Millom,SD1780,54.210651,-3.27195,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+30592,Millthrop,SD6691,54.315458,-2.519541,Yorkshire,West Riding,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+30614,Milnthorpe,SD4981,54.226785,-2.7731494,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+30638,Milton,NY5560,54.936388,-2.695926,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+30639,Milton,SD5382,54.240363,-2.721142,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+30752,Mintsfeet,SD5194,54.339994,-2.74288,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+30757,Mirehouse,NX9815,54.524599,-3.569791,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+30784,Mite Houses,SD0897,54.36019,-3.4172776,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+30795,Moat,NY4174,55.057296,-2.9228813,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+30810,Mockerkin,NY0923,54.596224,-3.410014,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+30888,Monkhill,NY3458,54.918768,-3.026533,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+31001,Moor Park,NY0638,54.728167,-3.4611513,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+31006,Moor Row,NY0014,54.515499,-3.536536,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+31007,Moor Row,NY2049,54.830916,-3.234473,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+31048,Moorend,NY3150,54.847983,-3.0650853,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+31070,Moorhouse,NY2651,54.849682,-3.154053,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+31071,Moorhouse,NY3356,54.902661,-3.039536,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+31134,Moresby Parks,NX9919,54.560006,-3.549345,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+31176,Morland,NY5922,54.595587,-2.623317,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+31207,Morton,NY3854,54.880285,-2.963051,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+31208,Morton,NY4439,54.748777,-2.859097,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+31242,Mosedale,NY3532,54.680764,-2.997253,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+31267,Moss Side,NY1952,54.861256,-3.255654,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+31276,Mossbay,NX9927,54.632083,-3.563859,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+31282,Mossedge,NY4768,55.005082,-2.820006,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+31285,Mosser,NY1124,54.609722,-3.369447,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+31286,Mosser Mains,NY1125,54.613747,-3.371131,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+31314,Motherby,NY4228,54.647901,-2.889513,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+31556,Mungrisdale,NY3630,54.663685,-2.990059,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+31582,Murton,NY7221,54.589905,-2.4227709,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+31807,Nateby,NY7706,54.455761,-2.346246,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+31810,Natland,SD5289,54.296696,-2.737798,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+31831,Nealhouse,NY3351,54.852871,-3.0392487,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+31836,Near Sawrey,SD3695,54.351287,-2.974642,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+31886,Nenthall,NY7545,54.806039,-2.381128,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+31887,Nenthead,NY7843,54.787288,-2.34052,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+31892,Nepgill,NY0529,54.650018,-3.459149,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+31952,Nether Row,NY3237,54.729725,-3.052807,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+31952,Row, Nether,NY3237,54.729725,-3.052807,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+31963,Nether Wasdale,NY1203,54.422934,-3.344777,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+31963,Wasdale, Nether,NY1203,54.422934,-3.344777,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+31964,Nether Welton,NY3545,54.799782,-3.004848,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+31964,Welton, Nether,NY3545,54.800178,-3.00254,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+31975,Netherby,NY3971,55.029767,-2.9558216,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+32015,Netherton,NY0436,54.71074,-3.491598,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+32031,Nethertown,NX9907,54.454034,-3.556446,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+32124,Cowper, New,NY1245,54.796267,-3.364858,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+32124,New Cowper,NY1245,54.796267,-3.364858,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+32184,Hutton, New,SD5691,54.313095,-2.675561,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+32184,New Hutton,SD5691,54.313095,-2.675561,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+32213,Mill, New,NY0504,54.42844,-3.46113,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+32213,New Mill,NY0504,54.42844,-3.46113,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+32342,Newbarns,SD2170,54.126668,-3.204414,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+32346,Newbiggin,NY4629,54.660847,-2.8267936,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+32347,Newbiggin,NY5549,54.83559,-2.691237,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+32348,Newbiggin,NY6228,54.650527,-2.5778689,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+32353,Newbiggin,SD0994,54.333958,-3.394103,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+32354,Newbiggin,SD2669,54.113877,-3.123574,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+32355,Newbiggin,SD5579,54.212381,-2.680019,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+32367,Newbiggin-on-Lune,NY7005,54.44316,-2.45485,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+32418,Newby,NY5921,54.585757,-2.6302731,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+32425,Newby Bridge,SD3786,54.266077,-2.964185,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+32427,Newby East,NY4758,54.917539,-2.821813,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+32428,Newby Head,NY5821,54.582446,-2.6513417,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+32429,Newby West,NY3653,54.87472,-2.984581,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+32505,Newland,SD3079,54.207106,-3.0738412,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+32512,Newland Bottom,SD2980,54.212956,-3.080043,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+32521,Newlands,NY2320,54.57577,-3.179562,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+32522,Newlands,NY3439,54.747127,-3.014419,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+32621,Newton,SD2271,54.135803,-3.180495,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+32659,Newton Arlosh,NY1955,54.884198,-3.253249,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+32700,Newton Reigny,NY4831,54.67814,-2.806425,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+32701,Newton Rigg,NY4930,54.669736,-2.788845,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+32748,Newtown,NY0948,54.823197,-3.407015,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+32750,Newtown,NY4962,54.956693,-2.785289,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+32893,Nook,SD5481,54.230802,-2.69643,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+33053,Dykes, North,NY5437,54.728615,-2.711151,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+33053,North Dykes,NY5437,54.728615,-2.711151,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+33061,End, North,NY3259,54.923882,-3.048665,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+33061,North End,NY3259,54.923882,-3.048665,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+33207,North Row,NY2232,54.680665,-3.205868,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+33207,Row, North,NY2232,54.680665,-3.205868,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+33209,North Scale,SD1770,54.119814,-3.259297,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+33209,Scale, North,SD1770,54.119814,-3.259297,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+33219,North Side,NY0029,54.651636,-3.546009,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+33219,Side, North,NY0029,54.651636,-3.546009,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+33225,North Stainmore,NY8315,54.531805,-2.26267,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+33225,Stainmore, North,NY8315,54.531805,-2.26267,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+33253,North Walney,SD1769,54.112018,-3.2571209,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+33253,Walney, North,SD1769,54.112018,-3.2571209,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+33499,Nunclose,NY4945,54.801788,-2.794884,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+33655,Oakshaw Ford,NY5176,55.077985,-2.761349,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+33785,Carlisle, Old,NY2646,54.807498,-3.148183,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+33785,Old Carlisle,NY2646,54.807498,-3.148183,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+33842,Hutton, Old,SD5688,54.290781,-2.675165,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+33842,Old Hutton,SD5688,54.290781,-2.675165,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+33898,Old Tebay,NY6105,54.439787,-2.590497,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+33898,Tebay, Old,NY6105,54.439787,-2.590497,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+33903,Old Town,NY4843,54.785965,-2.809346,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+33903,Town, Old,NY4843,54.785965,-2.809346,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+33904,Old Town,SD5982,54.240641,-2.622942,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+33904,Town, Old,SD5982,54.240901,-2.623053,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+33951,Oldfield,NY0527,54.629158,-3.4730904,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+34069,Ormathwaite,NY2625,54.619292,-3.13978,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+34085,Ormsgill,SD1971,54.132911,-3.235818,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+34101,Orthwaite,NY2534,54.70001,-3.15756,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+34104,Orton,NY6208,54.467558,-2.5841735,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+34111,Orton Rigg,NY3352,54.862709,-3.045363,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+34194,Oughterby,NY2955,54.891504,-3.102238,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+34196,Oughterside,NY1140,54.750755,-3.372696,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+34201,Oulton,NY2450,54.846822,-3.171103,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+34214,Ousby,NY6234,54.706741,-2.588611,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+34229,Outcast,SD3077,54.190026,-3.07215,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+34232,Outgate,SD3599,54.388889,-2.992627,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+34233,Outhgill,NY7801,54.409856,-2.332763,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+34370,Oxen Park,SD3187,54.276768,-3.047547,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+34373,Oxenholme,SD5389,54.301293,-2.722206,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+34485,Pallaflat,NX9912,54.49324,-3.5608376,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+34612,Papcastle,NY1131,54.67307,-3.377921,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+34650,Pardshaw,NY0924,54.609781,-3.403514,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+34651,Pardshaw Hall,NY1025,54.616027,-3.390256,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+34661,Park Broom,NY4358,54.921495,-2.885553,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+34684,Park Head,NY5842,54.772563,-2.6395324,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+34738,Parkgate,NY2146,54.809456,-3.223705,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+34752,Parkhead,NY3340,54.754588,-3.035583,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+34770,Parkside,NY0315,54.524463,-3.4933608,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+34800,Parsonby,NY1438,54.738232,-3.330287,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+34810,Parton,NX9720,54.570078,-3.5795515,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+34811,Parton,NY2750,54.846815,-3.12438,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+34834,Pategill,NY5229,54.660373,-2.740172,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+34858,Patterdale,NY3815,54.53531,-2.953041,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+34865,Patton Bridge,SD5597,54.370025,-2.682898,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+34988,Pelutho,NY1249,54.829543,-3.362867,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+35212,Pennington,SD2677,54.187416,-3.1305695,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+35221,Penny Bridge,SD3182,54.237491,-3.0600232,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+35317,Penrith,NY5230,54.664637,-2.73949,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+35321,Penruddock,NY4227,54.641639,-2.885503,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+35788,Pica,NY0222,54.584072,-3.515595,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+36060,Plantation Bridge,SD4896,54.364743,-2.794117,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+36130,Plumbland,NY1438,54.738386,-3.323613,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+36135,Plumpton,NY4937,54.728165,-2.784125,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+36139,Plumpton Foot,NY4839,54.748246,-2.805487,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+36266,Ponsonby,NY0505,54.435349,-3.456196,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+36443,Pooley Bridge,NY4724,54.611112,-2.817486,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+36483,Port Carlisle,NY2362,54.947755,-3.188869,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+36585,Portinscale,NY2523,54.60155,-3.162505,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+36744,Powhill,NY2355,54.883796,-3.2017724,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+36920,Prior Rigg,NY4668,55.005913,-2.843007,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+36944,Prospect,NY1140,54.754852,-3.371234,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+37112,Quality Corner,NX9819,54.56276,-3.565844,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+37229,Raby,NY1851,54.852607,-3.266289,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+37332,Raisbeck,NY6407,54.462112,-2.544537,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+37333,Raise,NY7146,54.810301,-2.448851,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+37361,Rampside,SD2366,54.085958,-3.167155,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+37448,Ratten Row,NY3240,54.752174,-3.054943,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+37449,Ratten Row,NY3949,54.838361,-2.945859,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+37457,Raughton,NY3847,54.81953,-2.951955,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+37458,Raughton Head,NY3745,54.799716,-2.968757,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+37467,Ravenglass,SD0896,54.354582,-3.406035,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+37489,Ravenstonedale,NY7204,54.431661,-2.429071,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+37490,Ravenstown,SD3675,54.168633,-2.977236,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+37538,Reagill,NY6017,54.551668,-2.610665,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+37554,Red Dial,NY2546,54.803344,-3.159733,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+37629,Redhills,NY5028,54.650057,-2.771772,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+37643,Redmain,NY1333,54.692301,-3.338869,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+37709,Renwick,NY5943,54.784318,-2.632825,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+37724,Reston,SD4598,54.380009,-2.835982,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+38035,Rickerby,NY4157,54.904916,-2.915602,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+38192,Risehow,NY0234,54.69927,-3.510575,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+38226,Roa Island,SD2364,54.074472,-3.174475,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+38236,Roadhead,NY5174,55.066792,-2.754873,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+38302,Rockcliffe,NY3661,54.942715,-2.9982142,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+38304,Rockcliffe Cross,NY3462,54.955106,-3.023961,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+38386,Roger Ground,SD3597,54.368435,-2.998906,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+38433,Rookby,NY8010,54.493063,-2.304105,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+38437,Rooking,NY4015,54.526713,-2.9285785,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+38448,Roose,SD2269,54.113338,-3.189035,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+38449,Roosebeck,SD2568,54.102695,-3.137037,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+38450,Roosecote,SD2268,54.110529,-3.182224,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+38535,Rosgill,NY5416,54.544452,-2.698669,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+38541,Rosley,NY3245,54.797556,-3.055347,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+38562,Rosthwaite,NY2514,54.522113,-3.151749,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+38563,Rosthwaite,SD2490,54.300409,-3.167834,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+38598,Rottington,NX9613,54.504068,-3.606844,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+38620,Roughsike,NY5275,55.067136,-2.7531455,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+38644,Roundthwaite,NY6003,54.424977,-2.604927,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+38654,Row,NY6234,54.706387,-2.581948,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+38655,Row,SD4589,54.2962,-2.842427,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+38658,Row Brow,NY0736,54.711909,-3.431877,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+38683,Rowe Head,SD2677,54.183416,-3.1353946,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+38715,Rowrah,NY0518,54.55439,-3.458826,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+38773,Ruckcroft,NY5344,54.791425,-2.727805,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+38903,Rusland,SD3389,54.296158,-3.026488,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+38904,Rusland Cross,SD3488,54.290899,-3.014958,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+38932,Ruthwaite,NY2336,54.719971,-3.184522,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+38946,Rydal,NY3606,54.447681,-2.980014,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+39007,Sadgill,NY4805,54.444537,-2.796431,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+39068,Salkeld Dykes,NY5436,54.722352,-2.706383,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+39080,Salt Cotes,NY1853,54.869678,-3.266824,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+39084,Salta,NY0845,54.796009,-3.426293,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+39092,Saltcoats,SD0896,54.359488,-3.416975,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+39097,Salterbeck,NX9926,54.621363,-3.558801,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+39110,Salthouse,SD2068,54.109936,-3.214637,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+39159,Sand Gate,SD3575,54.166665,-2.9970804,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+39163,Sand Side,SD2282,54.23224,-3.1847234,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+39168,Sandale,NY2440,54.751569,-3.169906,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+39185,Sandford,NY7216,54.539881,-2.425012,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+39251,Sandside,SD3077,54.187642,-3.067337,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+39252,Sandside,SD4780,54.217368,-2.804322,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+39265,Sandwith,NX9614,54.517748,-3.598729,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+39266,Sandwith Newtown,NX9614,54.514134,-3.60693,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+39303,Santon,NY0901,54.403293,-3.388581,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+39305,Santon Bridge,NY1001,54.403477,-3.374891,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+39356,Satterthwaite,SD3392,54.322508,-3.018303,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+39428,Scaleby,NY4463,54.960586,-2.860799,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+39429,Scalebyhill,NY4463,54.962553,-2.874742,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+39430,Scales,NY3426,54.632967,-3.016998,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+39431,Scales,NY5742,54.779633,-2.668511,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+39432,Scales,SD2772,54.140636,-3.116644,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+39443,Scar Head,SD2894,54.336456,-3.1088476,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+39459,Scarness,NY2230,54.664888,-3.210827,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+39495,Scilly Bank,NX9919,54.557515,-3.561313,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+39518,Scotby,NY4455,54.889142,-2.87315,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+39560,Scout Green,NY5907,54.461267,-2.626288,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+39591,Scuggate,NY4474,55.061956,-2.873307,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+39598,Sea Mill,SD2769,54.111674,-3.1181356,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+39634,Seascale,NY0401,54.396556,-3.479852,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+39638,Seathwaite,NY2312,54.49891,-3.181208,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+39639,Seathwaite,SD2296,54.353787,-3.1906035,Lancashire,,Cumbria,Copeland,,Cumbria,England,,Settlement
+39640,Seatle,SD3784,54.249514,-2.956125,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+39641,Seatoller,NY2413,54.513391,-3.170813,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+39643,Seaton,NY0130,54.662079,-3.5247471,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+39667,Seaville,NY1553,54.866952,-3.311927,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+39673,Sebergham,NY3641,54.764019,-2.992103,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+39678,Sedbergh,SD6592,54.323581,-2.528361,Yorkshire,West Riding,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+39691,Sedgwick,SD5187,54.276562,-2.749848,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+39738,Selside,SD5399,54.386623,-2.717375,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+39856,Shap,NY5615,54.531521,-2.67788,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+40255,Shopford,NY5674,55.062641,-2.681518,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+40269,Shoregill,NY7801,54.408489,-2.339685,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+40412,Siddick,NY0031,54.665092,-3.548071,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+40452,Silecroft,SD1381,54.224443,-3.333961,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+40464,Silloth,NY1053,54.868608,-3.389273,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+40599,Skelton,NY4335,54.713022,-2.8757877,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+40607,Skelwith Bridge,NY3403,54.421317,-3.016374,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+40633,Skinburness,NY1255,54.88747,-3.366537,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+40643,Skiprigg,NY3945,54.799867,-2.949626,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+40658,Skirwith,NY6132,54.687425,-2.600291,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+40660,Skitby,NY4465,54.983207,-2.864408,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+40676,Slack Head,SD4978,54.20353,-2.776458,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+40725,Sleagill,NY5919,54.56623,-2.625993,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+40738,Sleetbeck,NY4976,55.077198,-2.786082,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+40808,Smardale,NY7308,54.468058,-2.403438,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+40837,Smithfield,NY4465,54.979932,-2.869963,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+40941,Sockbridge,NY5026,54.632683,-2.7748986,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+41037,Soulby,NY4625,54.619987,-2.833925,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+41038,Soulby,NY7411,54.493707,-2.3885532,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+41047,Sour Nook,NY3740,54.750983,-2.9803154,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+41053,Soutergate,SD2281,54.222002,-3.189395,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+41128,End, South,SD2063,54.056718,-3.2235974,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+41128,South End,SD2063,54.056718,-3.2235974,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+41223,Newbarns, South,SD2169,54.117752,-3.205211,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+41223,South Newbarns,SD2169,54.117752,-3.205211,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+41268,South Stainmore,NY8413,54.512515,-2.2471,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+41268,Stainmore, South,NY8413,54.512515,-2.2471,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+41289,South Ulverston,SD3077,54.191735,-3.072041,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+41289,Ulverston, South,SD3077,54.191735,-3.072041,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+41319,Southam,NX9912,54.49324,-3.5608376,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+41359,Southernby,NY3639,54.745099,-2.987959,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+41419,Southwaite,NY4445,54.798982,-2.8594152,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+41446,Sowerby Row,NY3939,54.749028,-2.946106,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+41468,Spark Bridge,SD3084,54.254311,-3.069826,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+41570,Spring Bank,NY2224,54.605121,-3.2090288,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+41638,Sprunston,NY3948,54.827635,-2.938292,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+41679,St Bees,NX9711,54.492215,-3.590352,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+41765,St Helens,NY0132,54.673306,-3.5367215,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+41947,Staffield,NY5442,54.778043,-2.71124,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+41959,Stainburn,NY0228,54.645222,-3.520194,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+41982,Stainton,NY3856,54.903538,-2.965945,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+41983,Stainton,NY4827,54.643606,-2.796443,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+41986,Stainton,SD5285,54.262552,-2.7378174,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+41991,Stainton with Adgarley,SD2472,54.142799,-3.154209,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+41997,Stair,NY2321,54.580218,-3.184333,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+42048,Standingstone,NY2549,54.832095,-3.160557,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+42084,Stank,SD2370,54.124108,-3.172358,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+42179,Stanwix,NY3957,54.905098,-2.938845,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+42209,Stapleton,NY5071,55.035041,-2.7768107,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+42247,Station Hill,NY2548,54.829781,-3.167497,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+42261,Staveley,SD4798,54.375053,-2.814282,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+42264,Staveley-in-Cartmel,SD3786,54.267522,-2.954269,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+42294,Steel Green,SD1678,54.199543,-3.276131,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+42447,Stockdalewath,NY3845,54.796744,-2.958264,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+42646,Stone House,SD7785,54.267537,-2.350041,Yorkshire,West Riding,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+42648,Stone Raise,NY4049,54.83828,-2.933089,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+42700,Stonethwaite,NY2613,54.513215,-3.142231,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+42771,Storrs,SD3994,54.341656,-2.930881,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+42773,Storth,SD4780,54.215026,-2.805043,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+42870,Strands,SD1884,54.246992,-3.251197,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+42930,Strawberry Bank,SD4189,54.293197,-2.9079514,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+42942,Street,NY6208,54.466473,-2.573138,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+43127,Stubble Green,SD0599,54.377608,-3.464067,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+43247,Summerlands,SD5386,54.269872,-2.716282,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+43265,Sunbrick,SD2873,54.154603,-3.093285,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+43269,Sunderland,NY1835,54.706954,-3.271835,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+43448,Swallowhurst,SD1091,54.307336,-3.379985,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+43502,Swarthmoor,SD2776,54.183466,-3.111669,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+43514,Sweetholme,NY5518,54.555229,-2.6972938,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+43575,Swinside,NY2421,54.585265,-3.173647,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+43724,Talkin,NY5457,54.908111,-2.7062,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+43729,Tallentire,NY1035,54.705201,-3.390511,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+43879,Tarns,NY1247,54.818692,-3.368727,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+43880,Tarnside,SD4390,54.309829,-2.872216,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+43883,Tarraby,NY4058,54.913924,-2.924698,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+43953,Tebay,NY6104,54.434435,-2.589726,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+44002,Temple Sowerby,NY6126,54.636377,-2.602467,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+44076,Thackthwaite,NY1423,54.60083,-3.320385,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+44193,Green, The,SD1884,54.25239,-3.259342,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+44193,The Green,SD1884,54.25239,-3.259342,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+44194,Green, The,SD3676,54.182369,-2.96806,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+44194,The Green,SD3676,54.182369,-2.96806,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+44246,Hill, The,SD1782,54.235652,-3.261287,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+44246,The Hill,SD1782,54.235652,-3.261287,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+44256,Howe, The,SD4588,54.289675,-2.837224,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+44256,The Howe,SD4588,54.289675,-2.837224,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+44442,Thethwaite,NY3744,54.787175,-2.974833,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+44479,Thomas Close,NY4340,54.756696,-2.882574,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+44519,Thornby,NY2851,54.857269,-3.11143,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+44563,Thornhill,NY0108,54.466493,-3.523898,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+44591,Thornthwaite,NY2225,54.6187,-3.200937,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+44631,Thorpe,NY4926,54.632494,-2.777636,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+44698,Threapland,NY1539,54.741754,-3.3111303,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+44737,Threlkeld,NY3125,54.618136,-3.055081,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+44821,Thursby,NY3250,54.842106,-3.050062,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+44831,Thurstonfield,NY3156,54.900785,-3.069274,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+44840,Thwaite Flat,SD2174,54.159663,-3.203534,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+44841,Thwaite Head,SD3490,54.306445,-3.006626,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+44962,Tindale,NY6159,54.928546,-2.599195,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+45010,Tirril,NY5026,54.632864,-2.770377,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+45055,Tivoli,NX9920,54.565108,-3.5635826,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+45084,Todhills,NY3663,54.958106,-2.98615,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+45257,Torpenhow,NY2039,54.745058,-3.237297,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+45295,Torver,SD2894,54.337727,-3.10386,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+45347,Tottlebank,SD3184,54.250948,-3.053622,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+45383,Town End,NY3406,54.445096,-3.0192556,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+45384,Town End,NY4002,54.409898,-2.9259362,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+45385,Town End,NY6325,54.622445,-2.563713,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+45387,Town End,SD3598,54.374229,-2.9890964,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+45388,Town End,SD4483,54.243956,-2.8599119,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+45389,Town End,SD6282,54.232288,-2.5844498,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+45407,Town Head,NY3309,54.471922,-3.0353536,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+45408,Town Head,NY4103,54.425951,-2.908591,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+45409,Town Head,NY5825,54.620704,-2.642673,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+45410,Town Head,NY6022,54.591595,-2.6205362,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+45411,Town Head,NY6214,54.519859,-2.5885505,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+45412,Town Head,NY6425,54.626532,-2.554475,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+45413,Town Head,NY6712,54.507862,-2.501901,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+45414,Town Head,NY6924,54.610202,-2.4814748,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+45528,Towngate,NY5246,54.813981,-2.7379391,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+45538,Townhead,NY0735,54.709141,-3.437988,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+45539,Townhead,NY5439,54.746156,-2.708351,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+45540,Townhead,NY6334,54.700616,-2.567123,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+46230,Troutbeck,NY4103,54.420643,-2.909244,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+46231,Troutbeck Bridge,NY4000,54.395951,-2.91794,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+46691,Ulcat Row,NY4022,54.594642,-2.920855,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+46696,Uldale,NY2436,54.721492,-3.166711,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+46708,Ullock,NY0724,54.603166,-3.431154,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+46709,Ullock,NY2423,54.596441,-3.1778149,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+46710,Ulpha,SD1993,54.326942,-3.237169,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+46716,Ulverston,SD2878,54.195406,-3.092599,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+46725,Underbarrow,SD4691,54.319106,-2.823355,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+46749,Unthank,NY3948,54.829356,-2.948139,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+46750,Unthank,NY4535,54.714582,-2.8434408,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+46751,Unthank,NY6140,54.758393,-2.606003,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+46888,Denton, Upper,NY6165,54.981199,-2.600916,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+46888,Upper Denton,NY6165,54.981199,-2.600916,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+47126,Upperby,NY4053,54.873161,-2.9239047,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+47153,Upton,NY3239,54.744074,-3.056286,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+47335,Vickerstown,SD1868,54.107385,-3.2489046,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+47451,Waitby,NY7508,54.468418,-2.3854745,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+47466,Walby,NY4360,54.93498,-2.8791543,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+47543,Wall End,SD2383,54.238781,-3.1793716,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+47647,Walton,NY5264,54.972535,-2.7490303,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+47707,Wampool,NY2454,54.880836,-3.185339,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+47745,Warcop,NY7415,54.534638,-2.3899312,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+47886,Warwick Bridge,NY4756,54.904009,-2.8178746,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+47888,Warwick-on-Eden,NY4656,54.90097,-2.8352787,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+47889,Warwicksland,NY4477,55.086389,-2.8647391,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+47891,Wasdale Head,NY1808,54.464998,-3.256487,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+47933,Watchgate,SD5299,54.384644,-2.7276727,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+47934,Watchhill,NY1842,54.773493,-3.2641038,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+47937,Watendlath,NY2716,54.537004,-3.1205386,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+47952,Water Garth Nook,SD1867,54.092345,-3.2552262,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+47960,Water Yeat,SD2889,54.293689,-3.0943924,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+47967,Waterend,NY1122,54.589921,-3.371878,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+47974,Waterfoot,NY4624,54.614173,-2.829935,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+47987,Waterhead,NY3703,54.422342,-2.9631754,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+48017,Watermillock,NY4422,54.596142,-2.8601364,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+48030,Waterside,NY2245,54.800664,-3.2127912,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+48052,Wath,NY6805,54.44123,-2.488751,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+48056,Wath Brow,NY0214,54.517097,-3.502299,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+48107,Waverbridge,NY2249,54.830626,-3.2129111,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+48109,Waverton,NY2247,54.817511,-3.2042229,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+48151,Weasdale,NY6903,54.428567,-2.4790027,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+48271,Wellington,NY0704,54.423331,-3.42226,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+48321,Welton,NY3544,54.789762,-3.0087181,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+48508,Curthwaite, West,NY3248,54.82886,-3.0577167,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+48508,West Curthwaite,NY3248,54.82886,-3.0577167,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+48532,End, West,NY3259,54.921813,-3.059221,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+48532,West End,NY3259,54.921813,-3.059221,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+48965,Western Bank,NY2448,54.821928,-3.1772099,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+48979,Westfield,NX9927,54.62855,-3.559076,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+49048,Westlinton,NY3964,54.971413,-2.9506231,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+49056,Westmoor End,NY1039,54.746167,-3.3972478,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+49059,Westnewton,NY1343,54.78185,-3.3525293,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+49161,Westward,NY2744,54.793627,-3.1319507,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+49193,Wetheral,NY4654,54.881038,-2.833822,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+49194,Wetheral Plain,NY4655,54.888249,-2.8385387,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+49227,Whale,NY5221,54.58746,-2.7405997,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+49254,Whasset,SD5081,54.222388,-2.7549996,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+49311,Whelpo,NY3039,54.746863,-3.0761004,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+49325,Whicham,SD1382,54.233068,-3.3293165,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+49380,Whitbeck,SD1184,54.247381,-3.356495,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+49465,Whiteclosegate,NY4157,54.910663,-2.9162,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+49504,Whitehaven,NX9718,54.550722,-3.5874619,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+49632,Whitrigg,NY2038,54.735199,-3.234667,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+49633,Whitrigg,NY2257,54.908449,-3.210328,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+49822,Wiggonby,NY2953,54.867247,-3.0977852,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+49842,Wigton,NY2548,54.82485,-3.1612001,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+49963,Willow Holme,NY3956,54.897466,-2.949583,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+50012,Wilton,NY0311,54.485588,-3.484625,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+50061,Wind Hill,SD2771,54.129645,-3.1186197,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+50063,Winder,NY0417,54.546147,-3.4724008,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+50064,Windermere,SD4198,54.379696,-2.9063958,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+50156,Winscales,NY0225,54.611667,-3.5147,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+50167,Winskill,NY5834,54.707716,-2.652743,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+50180,Winster,SD4193,54.333713,-2.8958796,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+50227,Winton,NY7810,54.490127,-2.3385954,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+50298,Witherslack,SD4383,54.2474,-2.87627,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+50399,Wolsty,NY1050,54.839485,-3.39746,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+50540,Woodend,NY0012,54.501098,-3.5318571,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+50541,Woodend,NY0721,54.575628,-3.4402164,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+50542,Woodend,NY2127,54.631919,-3.2253157,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+50543,Woodend,SD1696,54.355885,-3.280972,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+50626,Woodhouse,NX9716,54.531811,-3.588769,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+50627,Woodhouse,SD5183,54.243231,-2.751883,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+50648,Woodhouses,NY3252,54.860092,-3.0533152,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+50660,Woodland,SD2489,54.294454,-3.1569472,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+50726,Woodrow,NY2245,54.79484,-3.2083861,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+50953,Workington,NY0028,54.643368,-3.5493685,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+51093,Wreaks End,SD2286,54.2691,-3.198428,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+51096,Wreay,NY4348,54.831748,-2.8806918,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+51097,Wreay,NY4423,54.606663,-2.8655137,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+51228,Wythop Mill,NY1729,54.655689,-3.2751382,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+51358,Yarlside,SD2371,54.130071,-3.178342,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+51404,Yearngill,NY1343,54.781211,-3.344914,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+51523,Yottenfews,NY0305,54.432024,-3.491476,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+287752,Abbotsmead,SD2169,54.115941,-3.2013531,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+287833,Aikhead,NY2349,54.832689,-3.1888415,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+287834,Aikrigg,SD5291,54.319348,-2.7311008,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+287968,Arrowthwaite,NX9617,54.542085,-3.5949795,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+288137,Barbary Plains,NY5431,54.673212,-2.7001053,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+288142,Bardsea Green,SD2974,54.161704,-3.0793425,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+288165,Barrow Island,SD1968,54.10332,-3.2282423,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+288174,Barton,NY4826,54.630218,-2.7974989,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+288176,Barugh,NY2246,54.808118,-3.2106806,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+288177,Barugh,NY6306,54.450619,-2.5570663,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+288221,Beck,NY0720,54.566848,-3.4294971,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+288223,Beck Wythop,NY2128,54.64453,-3.2198993,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+288224,Beckbottom,NY2745,54.801177,-3.1337952,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+288227,Beckfoot,NY1600,54.39262,-3.28212,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+288228,Beckfoot,SD1989,54.298165,-3.2419346,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+288231,Beckhouse,NY1629,54.652649,-3.2990368,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+288347,Birkthwaite,NY4447,54.822636,-2.8718242,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+288374,Blackbank,NY3467,54.99763,-3.0201962,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+288426,Bleatarn,NY4661,54.941781,-2.8335647,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+288479,Boothby,NY5462,54.956897,-2.707201,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+288526,Bow,NY3356,54.895294,-3.0376123,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+288535,Bowscar,NY5134,54.701052,-2.758434,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+288549,Brackenthwaite,NY5453,54.870288,-2.7067431,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+288553,Bradley,NY6134,54.708073,-2.5920188,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+288618,Briar Rigg,NY2623,54.605541,-3.1321587,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+288683,Brocklebank,NY3042,54.77169,-3.0746297,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+288729,Brougham,NY5228,54.648157,-2.7319089,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+288740,Brownrigg,NY1652,54.863399,-3.2958488,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+288741,Brownrigg,NY4464,54.974383,-2.8746096,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+288823,Burnbanks,NY5116,54.539028,-2.7580529,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+288833,Burnhill,NY4363,54.960251,-2.8815646,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+288907,Caldewgate,NY3955,54.891171,-2.946066,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+289086,Chapelburn,NY5964,54.974165,-2.6295636,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+289261,Clickem,NY4630,54.670023,-2.8293369,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+289268,Clifton Dykes,NY5427,54.638093,-2.7090146,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+289295,Coalfell,NY5959,54.932742,-2.6372188,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+289306,Cocklakes,NY4551,54.851373,-2.8468382,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+289410,Corkickle,NX9717,54.540967,-3.5794777,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+289463,Cowan Head,SD4997,54.367634,-2.7817809,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+289622,Cunsey,SD3894,54.34011,-2.952561,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+289697,Deepdale,SD7284,54.252498,-2.4263555,Yorkshire,West Riding,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+289747,Docker,SD5695,54.353641,-2.6744882,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+289750,Doddick,NY3326,54.629075,-3.0319999,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+289776,Dowbiggin,SD6892,54.324467,-2.4861866,Yorkshire,West Riding,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+289781,Downfield,SD2468,54.110309,-3.1494875,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+289811,Droomer,SD4198,54.376422,-2.8994882,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+289862,Dunnerdale,SD2195,54.347739,-3.2112442,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+289886,Dykesfield,NY3059,54.922374,-3.0815765,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+289903,East Causewayhead,NY1252,54.862428,-3.3583884,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+290062,Eveninghill,NY3249,54.839247,-3.0507324,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+290127,Fell Foot,SD3887,54.275287,-2.9508345,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+290196,Flakebridge,NY7022,54.592903,-2.4605172,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+290266,Four Lane Ends,SD2382,54.23131,-3.1814598,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+290309,Friars' Ground,SD2382,54.232411,-3.1699082,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+290351,Galemire,NY0015,54.527406,-3.5459618,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+290371,Garden Village,NY3754,54.879489,-2.9754997,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+290421,Ghyll Head,SD3992,54.327,-2.9349439,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+290447,Gilwilly,NY5030,54.66575,-2.7643652,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+290481,Glen Dowlin,NY5126,54.635229,-2.7559997,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+290517,Goat,NY1130,54.665414,-3.3705341,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+290581,Grange Fell,SD4077,54.192142,-2.9206779,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+290603,Great Easby,NY5362,54.957743,-2.7208332,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+290641,Greenbank,NX9715,54.527115,-3.5837331,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+290655,Greenscoe,SD2176,54.176962,-3.1985251,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+290727,Haggbeck,NY4773,55.055875,-2.828013,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+290753,Hall Senna,NY0601,54.397404,-3.4443311,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+290756,Hallgarth,SD5094,54.340466,-2.757747,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+290757,Hallow Bank,NY4605,54.439467,-2.825488,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+290890,Head Crag,SD2282,54.234828,-3.1837697,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+290920,Heggerscales,NY8210,54.489594,-2.2763337,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+290956,Heron Hill,SD5291,54.312506,-2.735975,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+290976,High Braithwaite,NY4040,54.760277,-2.9204297,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+291005,High Seaton,NY0231,54.666022,-3.518522,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+291006,High Side,NY1628,54.646636,-3.2906623,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+291014,High Waverbridge,NY2243,54.782237,-3.2004844,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+291188,Hole,NY6134,54.704098,-2.5943042,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+291226,Homewood,NX9816,54.530112,-3.5668343,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+291251,Hornsby Gate,NY5250,54.845683,-2.7457591,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+291266,Hoskethill,NY3457,54.905787,-3.0189636,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+291274,How,NY2424,54.608616,-3.1670342,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+291275,How,NY3704,54.430335,-2.9604495,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+291276,Howbeck,NY3438,54.736265,-3.0170642,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+291325,Hutton Moor End,NY3627,54.635314,-2.985447,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+291327,Hutton Row,NY4538,54.736342,-2.8481329,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+291384,Irton,NY1000,54.39182,-3.3783544,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+291430,Keisley,NY7023,54.609308,-2.4524349,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+291496,Kingmoor House,NY3858,54.916165,-2.9629081,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+291552,Kirkbarrow,SD5192,54.322462,-2.7494826,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+291602,Knotts,NY4321,54.585204,-2.8764781,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+291660,Lane Head,SD3084,54.254912,-3.0728729,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+291687,Langton,NY7020,54.575918,-2.4508736,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+291703,Laversdale Lane,NY4763,54.964427,-2.8162593,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+291737,Lee Houses,NY7539,54.75001,-2.3827708,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+291814,Little Arrow,SD2994,54.345533,-3.0930621,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+291872,Little Loughrigg,NY3403,54.426649,-3.0101658,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+291896,Littlebeck,NY6219,54.572211,-2.5824833,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+292016,Longrigg,NY2856,54.897208,-3.1147861,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+292017,Longrigg,NY5072,55.041439,-2.7740551,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+292055,Low Geltbridge,NY5159,54.924661,-2.7509489,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+292067,Low Nibthwaite,SD2988,54.283875,-3.0834718,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+292070,Low Seaton,NY0230,54.658223,-3.5197658,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+292241,Lyneholmeford,NY5172,55.043911,-2.7582183,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+292268,Mallsburn,NY4873,55.054732,-2.8081714,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+292296,Market Brough,NY7914,54.526935,-2.3197408,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+292379,Metal Bridge,NY3564,54.973749,-3.0087014,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+292497,Mirehouse East,NX9815,54.526851,-3.571577,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+292498,Mirehouse West,NX9715,54.525444,-3.5788473,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+292519,Monk Moors,SD0992,54.320469,-3.399122,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+292539,Moorclose,NY0027,54.629217,-3.54409,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+292555,Moorthwaite,NY5050,54.849276,-2.7662434,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+292579,Moss Side,NY0306,54.444196,-3.4886335,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+292678,Nentsberry,NY7645,54.800881,-2.3690808,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+292783,New Rent,NY4536,54.720619,-2.84501,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+292931,Newton-in-Cartmel,SD4082,54.237858,-2.917783,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+292942,Newtown,NY3856,54.895041,-2.9658186,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+292950,Newtown,NY5224,54.610342,-2.734466,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+292981,Newtown of Rockcliffe,NY3862,54.952969,-2.9579013,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+293168,Oak Bank,SD3097,54.371645,-3.0747448,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+293203,Oddendale,NY5913,54.51448,-2.6287886,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+293277,Oldwall,NY4761,54.947455,-2.8144321,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+293401,Paradise,SD2278,54.197095,-3.1858024,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+293552,Penton,NY4577,55.092594,-2.855221,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+293690,Plasketlands,NY1046,54.806861,-3.40096,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+293699,Ploughlands,NY2755,54.892663,-3.1252317,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+293700,Plumgarths,SD4994,54.345445,-2.7788983,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+293702,Plumpton Head,NY5035,54.709076,-2.7743682,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+293704,Plumptonfoot,NY4839,54.749008,-2.8028152,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+293748,Pool Bank,SD4287,54.282776,-2.8770328,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+293845,Powter How,NY2226,54.626512,-3.2088888,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+293856,Preston Patrick,SD5484,54.252296,-2.703361,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+293885,Prizet,SD5089,54.295598,-2.7567536,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+293956,Raffles,NY3755,54.890152,-2.969303,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+293981,Rannerdale,NY1618,54.557477,-3.2959783,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+294024,Red Hills,NY5028,54.6501,-2.7692322,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+294078,Rheda Park,NY0216,54.53509,-3.5054179,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+294167,Roachburn,NY6159,54.93071,-2.6022456,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+294200,Roose Gate,SD2169,54.111176,-3.2005881,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+294204,Rosebank,NX9816,54.531938,-3.5625769,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+294223,Rosewain,NY2849,54.832324,-3.1136197,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+294232,Rosside,SD2778,54.197227,-3.114589,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+294268,Rowell,SD5182,54.237228,-2.7475071,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+294302,Ruleholme,NY4859,54.930253,-2.7998208,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+294353,Salt Coates,NY1853,54.870001,-3.2680887,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+294364,Sampool,SD4785,54.261506,-2.8097535,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+294388,Sandwick,NY4219,54.568671,-2.8931529,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+294400,Sandylands,SD5293,54.332503,-2.7331027,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+294432,Scales,NY1625,54.61743,-3.292045,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+294442,Scarrowhill,NY5150,54.847353,-2.7590742,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+294448,Scaws,NY5130,54.668029,-2.7462827,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+294466,Scotsdike,NY3873,55.049219,-2.960918,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+294505,Sellafield,NY0204,54.425721,-3.5078638,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+294551,Shawfoot,NY4666,54.994002,-2.8361008,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+294610,Shire,NY6135,54.710057,-2.5997616,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+294679,Skelsmergh,SD5295,54.354795,-2.7266064,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+294682,Skelton Wood End,NY4038,54.737703,-2.921533,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+294695,Skirsgill,NY5028,54.651392,-2.7624373,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+294701,Slack,SD7185,54.267637,-2.4354017,Yorkshire,West Riding,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+294830,Southerfield,NY1548,54.826532,-3.3102651,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+294888,Spring End,SD6597,54.371107,-2.5317918,Yorkshire,West Riding,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+295030,Stanger,NY1327,54.637756,-3.3386767,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+295047,Stanthwaite,NY2536,54.718509,-3.1617596,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+295230,Stripes,NY4551,54.857608,-2.848402,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+295253,Studholme,NY2556,54.894059,-3.1554727,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+295286,Sunbiggin,NY6508,54.471791,-2.5273882,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+295290,Sunny Bank,SD2892,54.321875,-3.0933879,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+295326,Swathwaite Head,NY4243,54.784475,-2.9005782,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+295441,Thackthwaite,NY4225,54.62012,-2.8946669,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+295470,The Common,SD4299,54.388318,-2.8914789,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+295481,The Flatt,NY5578,55.100086,-2.6915016,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+295524,The Lound,SD5191,54.319545,-2.7401285,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+295537,The Nook,SD0990,54.30384,-3.3984195,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+295561,The Sands,NY5361,54.943045,-2.7276729,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+295580,Thickholme,NY4001,54.40415,-2.9160551,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+295601,Thornthwaite,NY2641,54.7669,-3.1404682,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+295621,Three Bridges,SD2777,54.189609,-3.1122691,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+295629,Thrimby,NY5520,54.575772,-2.6834433,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+295635,Thrushwood,NY2624,54.612892,-3.1456485,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+295646,Thwaite Moss,SD3489,54.299862,-3.0144191,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+295776,Towcett,NY5718,54.560413,-2.6608563,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+295779,Tower Wood,SD3890,54.310511,-2.9392118,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+295782,Town Bank,SD2879,54.202101,-3.0957258,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+295793,Town Head,SD1088,54.284024,-3.3731392,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+295802,Townfoot,NY5539,54.751699,-2.6991288,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+295803,Townfoot,NY5943,54.783676,-2.6263979,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+295804,Townfoot,NY6137,54.728382,-2.604908,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+295811,Townhead,NY5130,54.669646,-2.759337,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+295812,Townhead,NY5157,54.912183,-2.7560513,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+295922,Troutbeck,NY3826,54.63358,-2.9481466,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+295947,Tummer Hill,SD1867,54.100576,-3.249434,Lancashire,,Cumbria,Barrow-in-Furness,,Cumbria,England,,Settlement
+296021,Unthank End,NY4535,54.711491,-2.8420262,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+296177,Uppertown,NY4467,54.995971,-2.8755481,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+296327,Waberthwaite,SD1093,54.328115,-3.3774375,Cumberland,,Cumbria,Copeland,,Cumbria,England,,Settlement
+296458,Wallthwaite,NY3526,54.627143,-3.0020867,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+296612,Warnell,NY3441,54.767265,-3.0166293,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+296771,Wath,NY1354,54.875389,-3.3477743,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+296894,Wellgill,NY7744,54.793929,-2.3465593,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+296961,Wescoe,NY3024,54.615006,-3.0788271,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+297008,West Causewayhead,NY1152,54.85978,-3.3732401,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+297287,West Silloth,NY1152,54.860908,-3.385493,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+297332,West Woodside,NY3048,54.83038,-3.090137,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+297566,Wetheral Pasture,NY4553,54.872686,-2.8448384,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+297568,Wetheral Shield,NY4652,54.864557,-2.8377663,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+297614,Wharton,NY7605,54.440074,-2.3587656,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement
+297665,Wheyrigg,NY1948,54.827939,-3.2492726,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+297700,Whitbarrow,NY4027,54.642995,-2.9231234,Cumberland,,Cumbria,Eden,,Cumbria,England,,Settlement
+297883,Whitrigglees,NY2457,54.903758,-3.1823573,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+298356,Witherslack,SD4385,54.266373,-2.868378,Westmorland,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+298441,Wood Broughton Hall,SD3781,54.224518,-2.956186,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+298458,Wood Gate,SD2885,54.258367,-3.1033581,Lancashire,,Cumbria,South Lakeland,,Cumbria,England,,Settlement
+298679,Woodville,NY3551,54.857643,-3.0094617,Cumberland,,Cumbria,Carlisle,,Cumbria,England,,Settlement
+298775,Wordsworth Terrace,NY1230,54.661528,-3.358109,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+298935,Wythburn,NY3212,54.506404,-3.0480865,Cumberland,,Cumbria,Allerdale,,Cumbria,England,,Settlement
+298958,Yanwath,NY5127,54.642206,-2.758469,Westmorland,,Cumbria,Eden,,Cumbria,England,,Settlement

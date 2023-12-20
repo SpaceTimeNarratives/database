@@ -1,0 +1,1 @@
+scp -r /home/ndevadas/projects/spatial_narratives_api neil@152.44.41.91:/home/neil/docker

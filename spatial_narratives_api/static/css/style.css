@@ -1,0 +1,74 @@
+body {
+    font-family: 'Literata', serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.tile {
+    height: 100%;
+}
+
+.buttons {
+    margin-bottom: 0px !important;
+}
+
+.buttons .button {
+    margin-bottom: 0px;
+}
+
+.hero {
+    border-bottom-style: solid !important;
+    border-bottom-color: silver !important;
+    border-bottom-width: 1px !important;
+}
+
+.navbar-item {
+    color: black !important;
+}
+
+.card {
+    border-color: #D8D8D8 !important;
+    border-style: solid !important;
+    border-width: 1px !important;
+    box-shadow: none !important;
+}
+
+.card.footer {
+    border-style: none !important;
+
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(245, 250, 245);
+    padding: 10px;
+    top: 40%;
+}
+
+input {
+    width: 80%;
+}
+
+.pagination-page-info {
+    padding: .6em;
+    padding-left: 0;
+    width: 40em;
+    margin: .5em;
+    margin-left: 0;
+    font-size: 12px;
+}
+
+.pagination-page-info b {
+    color: black;
+    background: #6aa6ed;
+    padding-left: 2px;
+    padding: .1em .25em;
+    font-size: 150%;
+}
+
+.pagination-link.is-current {
+    background-color: #337ab7 !important;
+    border-color: #337ab7 !important;
+    color: #fff !important;
+}

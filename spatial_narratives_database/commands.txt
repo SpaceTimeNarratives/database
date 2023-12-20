@@ -1,0 +1,76 @@
+SELECT 
+	setweight(to_tsvector('simple', text), 'A') || ' ' || 
+	setweight(to_tsvector('simple', plnames), 'B') :: tsvector
+FROM public.data_paragraphs;
+
+alter table public.data_paragraphs add search tsvector;
+
+update public.data_paragraphs
+set search = setweight(to_tsvector('english', text), 'A') || ' ' || 
+	setweight(to_tsvector('simple', plnames), 'B') :: tsvector;
+
+
+create index idx_search on public.data_paragraphs using GIN(search);
+
+select text from public.data_paragraphs where search @@ to_tsquery('map');
+
+# if order does not matter:  it is an AND query
+
+select text from public.data_paragraphs where search @@ plainto_tsquery('prepared map');
+
+# test
+
+select plainto_tsquery('prepared map');
+
+# if order matters:
+
+select text from public.data_paragraphs where search @@ phraseto_tsquery('prepared map');
+
+# if randomness matter:
+
+select text from public.data_paragraphs where search @@ websearch_to_tsquery('distance from Kendal to Bowness');
+
+
+# with some more complexities:
+
+select text,
+  ts_rank(search, websearch_to_tsquery('english', 'distance from Kendal to Bowness')) +
+  ts_rank(search, websearch_to_tsquery('simple', 'distance from Kendal to Bowness'))
+as rank
+from public.data_paragraphs 
+where search @@ websearch_to_tsquery('english', 'distance from Kendal to Bowness')
+or search @@ websearch_to_tsquery('simple', 'distance from Kendal to Bowness')
+order by rank desc;
+
+
+
+            select text, colId, fileId, paraId, plnames, geonouns, pn_cnts, sentiment_score,
+            ts_rank(search, websearch_to_tsquery('english', 'distance from Kendal to Bowness')) +
+            ts_rank(search, websearch_to_tsquery('simple', 'distance from Kendal to Bowness'))
+            as rank
+            from public.data_paragraphs 
+            where search @@ websearch_to_tsquery('english', 'distance from Kendal to Bowness')
+            or search @@ websearch_to_tsquery('simple', 'distance from Kendal to Bowness')
+            order by rank desc;
+
+
+
+ALTER TABLE public.data_paragraphs 
+RENAME COLUMN "colId" TO colId;
+
+
+https://github.com/SpaceTimeNarratives/
+
+
+echo "# database" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:SpaceTimeNarratives/database.git
+git push -u origin main
+
+…or push an existing repository from the command line
+git remote add origin git@github.com:SpaceTimeNarratives/database.git
+git branch -M main
+git push -u origin main
